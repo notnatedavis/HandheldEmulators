@@ -2,6 +2,6 @@
 
 Important Keybinds :
 - `menu` + `select` opens RetroArch menu
-- holding `` fast forwards
-- `` saves current state to slot
-
+- `menu` + `start` expands scale
+- holding `R2` fast forwards
+- `menu` + `R2` saves current state to slot
