@@ -7,3 +7,11 @@
     - seems like its the issue with game & retroarch menu open (hotkey?i tried)
     - does the default work for an essentials only user ?
 - disk health / partition analysis for miyoo (look for .iso online)
+
+- October
+    - update default retroarch config
+    - drain battery and measure charge
+    - final touches
+        - update print.md w/ ALL
+        - include retroarch usage
+    - print instructions
