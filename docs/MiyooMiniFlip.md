@@ -9,7 +9,7 @@
 3. Install [Onion OS](https://github.com/OnionUI/Onion/releases/tag/latest) (4.4.0) , extract files onto flashed sd card (deleting original OnionOS/ folder) and eject
 4. Fresh setup Onion OS (go through complete cycle) , Shut down and take out sd card
 5. Move any saved ROMS/ to SD card Roms/
-6. Copy over Emu/ from (stock)/ without other emulator types (except GBA, GBC, GB)
+6. Copy over Emu/ from (stock)/ without other emulator types (except GBA, GBC, GB) and eject
 7. Go through entire Onion Setup
    - Apps
        - Themes; 3DS mini
