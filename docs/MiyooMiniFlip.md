@@ -33,6 +33,7 @@
 
 Issues & Fixes
 - Game Console not popping up, copy paste Emu/ + corresponding folder w/ contents
+- Saving state's is fragile (stores all data) but storing in game save (.srm) is more reliable and stable, contents are stored at `E(SDcard):\Saves\CurrentProfile\saves\gpSP\`
 
 [Setup Video](https://www.youtube.com/watch?v=Udv7FKxg9SQ&t=1244s)
 [OnionOS]()
